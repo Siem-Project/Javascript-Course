@@ -1,4 +1,4 @@
-# Curso JavaScript
+# Curso JavaScript 2
 
 > Introducción a conceptos de JavaScript Moderno y TypeScript
 
